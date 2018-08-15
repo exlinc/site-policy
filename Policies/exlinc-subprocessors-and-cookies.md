@@ -23,7 +23,7 @@ When we share your information with third party subprocessors, such as our vendo
 | Sendgrid             | Transactional mail services provider                                            | United States          |
 | Twilio               | SMS notification provider                                                       | United States          |
 | Intercom             | Embedded chat, support hosting                                                  | United States          |
-| Meya.ai              | Chat-bot hostign                                                                | United States, Canada  |
+| Meya.ai              | Chat-bot hosting                                                                | United States, Canada  |
 
 When we bring on a new vendor or other subprocessor who handles our Users' Personal Information, or remove a subprocessor, or we change how we use a subprocessor, we will update this page. If you have questions or concerns about a new subprocessor, we'd be happy to help. Please contact our support team [here](https://support.exlinc.com).
 

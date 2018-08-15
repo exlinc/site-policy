@@ -63,7 +63,7 @@ All courses are public, anyone (including us and unaffiliated third parties) may
 
 ### How we share the information we collect
 
-We do share User Personal Information with your permission, so we can perform services you have requested or communicate on your behalf. For example, if you start a paid conversation with an EXLskills instructor or chat bot, you are providing that data to all parties invovled in the communication. Additionally, you may indicate, through your actions on EXL Inc., that you are willing to share your User Personal Information. For example, when you share information with an instructor or chat bot on EXLskills, you are intentionally providing information to third parties. We make a reasonable effort to respect your choices, however, due to the nature of certain EXL services, data may be frequently processed and communicated in order to provide the service.
+We do share User Personal Information with your permission, so we can perform services you have requested or communicate on your behalf. For example, if you start a paid conversation with an EXLskills instructor or chat bot, you are providing that data to all parties involved in the communication. Additionally, you may indicate, through your actions on EXL Inc., that you are willing to share your User Personal Information. For example, when you share information with an instructor or chat bot on EXLskills, you are intentionally providing information to third parties. We make a reasonable effort to respect your choices, however, due to the nature of certain EXL services, data may be frequently processed and communicated in order to provide the service.
 
 We **do not** share, sell, rent, or trade User Personal Information with third parties for their commercial purposes, except where you have specifically told us to (such as by communicating with an instructor or chat bot).
 
@@ -73,7 +73,7 @@ We **do not** disclose User Personal Information outside EXL Inc., except in the
 
 We **do** share certain aggregated, non-personally identifying information with others about how our users, collectively, use EXL Inc., or how our users respond to our other offerings, such as our conferences or events. For example, we may compile data on learner, instructor, or chat bot behavior. However, we do not sell this information to advertisers or marketers.
 
-We **do** analyze anonymized, and redacted for any personally-indentifying, information communicated with instructors and chat bots for the purposes of improving the service.
+We **do** analyze anonymized, and redacted for any personally-identifying, information communicated with instructors and chat bots for the purposes of improving the service.
 
 We **do** retain the license to use instructors' contributions in perpetuity to provide services to our users. We also make reasonable effort to fairly remunerate instructors for their contributions for the duration of their relationship with EXL Inc. as an instructor
 

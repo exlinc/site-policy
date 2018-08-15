@@ -138,7 +138,7 @@ Any User-Generated Content you post publicly, including issues, comments, and co
 
 If you set your pages and repositories to be viewed publicly, you grant each User of EXL Inc. a nonexclusive, worldwide license to use, display, and perform Your Content through the EXL Inc. Service and to reproduce Your Content solely on EXL Inc. as permitted through EXL Inc.'s functionality. You may grant further rights if you adopt a license. If you are uploading Content you did not create or own, you are responsible for ensuring that the Content you upload is licensed under terms that grant these permissions to other EXL Inc. Users.
 
-#### 6. Contributions Under Couerse License
+#### 6. Contributions Under Course License
 
 Whenever you make a contribution to a course containing notice of a license, you license your contribution under the same terms, and you agree that you have the right to license your contribution under those terms. If you have a separate agreement to license your contributions under different terms, such as a contributor license agreement, that agreement will supersede.
 
@@ -162,7 +162,7 @@ We will terminate the Accounts of repeat infringers of this policy.
 
 #### 1. EXL Inc.'s Rights to Content
 
-EXL Inc. and our licensors, vendors, agents, and/or our content providers retain ownership of all intellectual property rights of any kind related to the Website and Service. We reserve all rights that are not expressly granted to you under this Agreement or by law. The look and feel of the Website and Service is copyright © EXL Inc., Inc. All rights reserved. You may not duplicate, copy, or reuse any portion of the HTML/CSS, Javascript, or visual design elements or concepts without express written permission from EXL Inc.
+EXL Inc. and our licensors, vendors, agents, and/or our content providers retain ownership of all intellectual property rights of any kind related to the Website and Service. We reserve all rights that are not expressly granted to you under this Agreement or by law. The look and feel of the Website and Service is copyright © EXL Inc., Inc. All rights reserved. You may not duplicate, copy, or reuse any portion of the HTML/CSS, JavaScript, or visual design elements or concepts without express written permission from EXL Inc.
 
 #### 2. EXL Inc. Trademarks and Logos
 
